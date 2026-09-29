@@ -1,0 +1,380 @@
+{
+  "labels": {
+    "0": "Pepper__bell___Bacterial_spot",
+    "1": "Pepper__bell___healthy",
+    "2": "Potato___Early_blight",
+    "3": "Potato___Late_blight",
+    "4": "Potato___healthy",
+    "5": "Tomato_Bacterial_spot",
+    "6": "Tomato_Early_blight",
+    "7": "Tomato_Late_blight",
+    "8": "Tomato_Leaf_Mold",
+    "9": "Tomato_Septoria_leaf_spot",
+    "10": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "11": "Tomato__Target_Spot",
+    "12": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "13": "Tomato__Tomato_mosaic_virus",
+    "14": "Tomato_healthy"
+  },
+  "disease_info": {
+    "Pepper__bell___Bacterial_spot": {
+      "plant": "Pepper Bell",
+      "disease": "Bacterial Spot",
+      "pathogen": "Bacterial (Xanthomonas campestris)",
+      "description": "Bacterial spot causes water-soaked, dark brown or black angular spots on foliage and raised scab-like lesions on fruit.",
+      "symptoms": [
+        "Small, water-soaked lesions that turn brown and necrotic",
+        "Leaves turning yellow and dropping prematurely",
+        "Raised, rough wart-like spots on peppers"
+      ],
+      "causes": "Warm, humid weather, splashing rain or overhead irrigation, infected seed.",
+      "treatment": "Spray copper-based bactericides at first sign. Prune affected branches with disinfected tools.",
+      "organic_treatment": "Apply Bacillus subtilis or copper soap spray. Remove diseased leaves immediately.",
+      "prevention": "Use certified pathogen-free seed, rotate with non-solanaceous crops for 2-3 years, avoid overhead irrigation.",
+      "severity": "moderate",
+      "precaution_level": "HIGH ALERT",
+      "precautions": [
+        "Quarantine infected peppers and prune spotted leaves strictly during dry weather to avoid spreading bacteria.",
+        "Sanitize pruning shears, stakes, and gloves in 70% alcohol or 10% bleach between every single cut.",
+        "Immediately switch from overhead sprinklers to root-zone drip irrigation to eliminate bacterial water splash.",
+        "Do not touch, prune, or harvest damp foliage; bacterial cells readily travel on wet hands and clothing.",
+        "Bag and seal infected leaves in plastic; do NOT compost them, as bacteria can persist in organic matter."
+      ]
+    },
+    "Pepper__bell___healthy": {
+      "plant": "Pepper Bell",
+      "disease": "Healthy",
+      "pathogen": "None (Healthy Plant)",
+      "description": "The pepper bell leaf is vibrant, free from lesions, chlorosis, or pest infestation.",
+      "symptoms": [
+        "Uniform green coloration",
+        "Smooth leaf margins and intact cuticle",
+        "Vigorous vegetative growth"
+      ],
+      "causes": "Optimal soil moisture, balanced nutrition, and good airflow.",
+      "treatment": "No treatment required. Maintain current watering and fertilization schedules.",
+      "organic_treatment": "Occasional foliar seaweed or compost tea to boost natural immunity.",
+      "prevention": "Continue scouting weekly for early detection of aphid or mite vectors.",
+      "severity": "none",
+      "precaution_level": "ROUTINE CARE",
+      "precautions": [
+        "Conduct routine pest scouting twice weekly on leaf undersides for early signs of aphids or thrips.",
+        "Maintain consistent soil moisture; avoid waterlogging root zones which predisposes plants to root rot.",
+        "Keep soil mulched with clean straw or organic mulch to prevent soil-splash contact with lower leaves.",
+        "Ensure adequate plant spacing to maintain cross-ventilation as the pepper canopy expands."
+      ]
+    },
+    "Potato___Early_blight": {
+      "plant": "Potato",
+      "disease": "Early Blight",
+      "pathogen": "Fungal (Alternaria solani)",
+      "description": "Early blight produces characteristic dark brown to black concentric ring spots (target board pattern) on mature leaves.",
+      "symptoms": [
+        "Concentric rings forming target spots",
+        "Yellow halos surrounding lesions",
+        "Premature leaf senescence starting from lower canopy"
+      ],
+      "causes": "Alternating wet and dry periods, warm temperatures (24-29\u00b0C), nutrient stress.",
+      "treatment": "Apply protective fungicides like chlorothalonil, azoxystrobin, or mancozeb.",
+      "organic_treatment": "Copper octanoate fungicides and biofungicides (Trichoderma strains).",
+      "prevention": "Ensure adequate nitrogen and potassium levels, practice 3-year crop rotation, eliminate volunteer potatoes.",
+      "severity": "moderate",
+      "precaution_level": "MODERATE CAUTION",
+      "precautions": [
+        "Prune and discard all lower yellowing or target-spotted leaves immediately, starting from the ground up.",
+        "Apply a 3-inch layer of clean straw mulch around the base of potato plants to block soil-borne fungal spores.",
+        "Water exclusively at the base in early morning so accidental leaf moisture evaporates quickly in the sun.",
+        "Avoid excessive nitrogen fertilization, which creates tender tissue vulnerable to Alternaria infection.",
+        "Disinfect digging and hilling tools after working in affected crop rows."
+      ]
+    },
+    "Potato___Late_blight": {
+      "plant": "Potato",
+      "disease": "Late Blight",
+      "pathogen": "Oomycete (Phytophthora infestans)",
+      "description": "Late blight is the aggressive pathogen responsible for the Irish Potato Famine. Produces water-soaked lesions with pale white mildew underneath.",
+      "symptoms": [
+        "Rapidly expanding water-soaked dark lesions",
+        "White fuzzy sporulation on leaf underside in high humidity",
+        "Foul odor and sudden collapse of foliage"
+      ],
+      "causes": "Cool, humid weather (15-20\u00b0C with relative humidity > 90%), prolonged leaf wetness.",
+      "treatment": "Apply systemic fungicides (metalaxyl, mandipropamid) immediately upon warning.",
+      "organic_treatment": "Preventative fixed copper sprays. Destroy and discard all infected canopy to stop spores.",
+      "prevention": "Plant certified disease-free tubers, destroy cull piles, monitor local blight forecasting alerts.",
+      "severity": "high",
+      "precaution_level": "CRITICAL URGENCY",
+      "precautions": [
+        "ACT IMMEDIATELY (24-48 Hours): Late blight is an aggressive pathogen capable of destroying a crop within days.",
+        "Pull and bag severely infected plants immediately; seal in heavy plastic trash bags and bury or dispose off-site.",
+        "NEVER compost infected foliage or rotten tubers; fungal-like spores can overwinter and infect next year\u2019s crop.",
+        "Alert neighboring growers or community allotments; airborne spores travel miles on cool, damp wind currents.",
+        "Wear gloves and disinfect boots with alcohol spray before walking into unaffected vegetable patches.",
+        "If harvest is approaching, cut and destroy vines 2 weeks prior to digging to prevent tuber rot infection."
+      ]
+    },
+    "Potato___healthy": {
+      "plant": "Potato",
+      "disease": "Healthy",
+      "pathogen": "None (Healthy Plant)",
+      "description": "Vigorous potato foliage with rich green color and robust canopy development.",
+      "symptoms": [
+        "Lush green foliage without spots or necrosis",
+        "Normal leaflet expansion",
+        "Healthy stem structure"
+      ],
+      "causes": "Well-drained loose soil, appropriate hilling, balanced macronutrients.",
+      "treatment": "Maintain healthy soil moisture and prevent soil compaction around tubers.",
+      "organic_treatment": "Mulch with clean straw to conserve moisture and suppress weeds.",
+      "prevention": "Scout lower leaves after rain events for early blight signs.",
+      "severity": "none",
+      "precaution_level": "ROUTINE CARE",
+      "precautions": [
+        "Ensure potato hills are adequately mounded to shield developing tubers from sunlight and spore wash.",
+        "Scout lower leaves after heavy rain or persistent morning fog for first signs of water-soaked spots.",
+        "Enforce a strict 3-year crop rotation avoiding solanaceous crops (potato, tomato, pepper, eggplant) in this bed.",
+        "Use only certified disease-free seed tubers for all subsequent plantings."
+      ]
+    },
+    "Tomato_Bacterial_spot": {
+      "plant": "Tomato",
+      "disease": "Bacterial Spot",
+      "pathogen": "Bacterial (Xanthomonas perforans / euvesicatoria)",
+      "description": "Causes circular to irregular greasy dark brown spots on leaves and stems, often with yellow halos.",
+      "symptoms": [
+        "Dark, water-soaked circular lesions (<3mm)",
+        "Leaves become ragged as dead tissue falls out",
+        "Blister-like brown scabs on tomato fruits"
+      ],
+      "causes": "Splashing rain, overhead watering, high humidity (>85%) and temperatures around 25-30\u00b0C.",
+      "treatment": "Apply copper hydroxide mixed with mancozeb for synergistic bactericidal action.",
+      "organic_treatment": "Bacteriophage treatments and copper soap sprays. Destroy heavily infected plants.",
+      "prevention": "Use drip irrigation, sanitize pruning shears with 70% alcohol, plant tolerant varieties.",
+      "severity": "moderate",
+      "precaution_level": "HIGH ALERT",
+      "precautions": [
+        "Immediately halt all overhead sprinkling; water solely via drip or soaker hoses directly onto root beds.",
+        "Do not cultivate, weed, or touch plants while foliage is wet to prevent mechanical spreading of bacteria.",
+        "Prune lower diseased leaves using shears dipped in 70% rubbing alcohol between every single cut.",
+        "Collect and seal all diseased leaves and fallen fruit in airtight bags; discard away from garden beds.",
+        "Wash hands thoroughly with antibacterial soap and change gloves after handling infected plants."
+      ]
+    },
+    "Tomato_Early_blight": {
+      "plant": "Tomato",
+      "disease": "Early Blight",
+      "pathogen": "Fungal (Alternaria linariae / solani)",
+      "description": "Produces distinctive concentric ring target spots on older foliage, eventually leading to defoliation.",
+      "symptoms": [
+        "Target-like concentric ring brown lesions",
+        "Progressive yellowing spreading from leaf tips",
+        "Stem cankers near ground level"
+      ],
+      "causes": "High humidity, heavy dew, warm sunny days alternating with rain.",
+      "treatment": "Spray with chlorothalonil, difenoconazole, or copper sulfate.",
+      "organic_treatment": "Bacillus amyloliquefaciens or neem oil extracts applied preventatively.",
+      "prevention": "Prune bottom 12 inches of suckers/leaves, apply thick mulch to block soil splash.",
+      "severity": "moderate",
+      "precaution_level": "MODERATE CAUTION",
+      "precautions": [
+        "Strip lower foliage 12 to 18 inches above soil level to create an anti-splash barrier against soil fungi.",
+        "Spread a 3-inch layer of clean wood chip or straw mulch under the entire canopy to cover bare soil.",
+        "Sanitize tomato stakes, cages, and trellises before reuse with a 10% household bleach solution.",
+        "Water early in the day so any inadvertent leaf splash evaporates within 1-2 hours.",
+        "Apply preventative bio-fungicide or copper spray to upper healthy foliage before upcoming rain storms."
+      ]
+    },
+    "Tomato_Late_blight": {
+      "plant": "Tomato",
+      "disease": "Late Blight",
+      "pathogen": "Oomycete (Phytophthora infestans)",
+      "description": "High-severity pathogen causing rapidly expanding grey-green greasy lesions that turn dark brown and can wipe out a crop within days.",
+      "symptoms": [
+        "Large irregular dark water-soaked patches",
+        "White downy mold on leaf undersides in humid mornings",
+        "Greasy brown rot on green fruit"
+      ],
+      "causes": "Prolonged cool, overcast, damp conditions (16-22\u00b0C).",
+      "treatment": "Immediate systemic fungicide applications (cymoxanil, fluopicolide, or cyazofamid).",
+      "organic_treatment": "Preventative copper formulations before disease onset. Promptly pull and bag diseased plants.",
+      "prevention": "Allow wide plant spacing for airflow, never compost infected debris, use resistant hybrids (e.g., Defiant, Mountain Magic).",
+      "severity": "high",
+      "precaution_level": "CRITICAL URGENCY",
+      "precautions": [
+        "CRITICAL BIO-SECURITY ACTION: Late blight is an airborne epidemic threat that can wipe out entire tomato plots.",
+        "Bag and remove all plants with brown water-soaked lesions or white mold immediately during dry midday hours.",
+        "Do NOT compost diseased tissue; home compost piles do not reach temperatures needed to kill Phytophthora spores.",
+        "Apply systemic or protective copper spray to all surrounding asymptomatic plants immediately as a protective shield.",
+        "Sterilize stakes, cages, gloves, and footwear with disinfectant spray before visiting unaffected garden zones."
+      ]
+    },
+    "Tomato_Leaf_Mold": {
+      "plant": "Tomato",
+      "disease": "Leaf Mold",
+      "pathogen": "Fungal (Passalora fulva)",
+      "description": "Characterized by pale green to yellow chlorotic spots on leaf uppersides with velvety olive-brown mold underneath.",
+      "symptoms": [
+        "Diffuse yellow patches on upper surface",
+        "Velvety olive to purple-brown sporulation on lower leaf surface",
+        "Premature leaf withering and curl"
+      ],
+      "causes": "High relative humidity (>85%) combined with warm greenhouse or sheltered tunnel environments.",
+      "treatment": "Apply fungicides such as trifloxystrobin or cyprodinil.",
+      "organic_treatment": "Improve greenhouse ventilation, use exhaust fans, apply sulfur or potassium bicarbonate.",
+      "prevention": "Keep greenhouse humidity below 80%, increase row spacing, prune dense foliage.",
+      "severity": "moderate",
+      "precaution_level": "MODERATE CAUTION",
+      "precautions": [
+        "Maximize greenhouse or high-tunnel ventilation immediately; open louvers and run circulating fans continuously.",
+        "Keep relative humidity strictly below 85%; avoid closed, damp environments during warm afternoons.",
+        "Space plants wider apart and prune dense suckers to ensure sunlight penetrates deep into the inner canopy.",
+        "Avoid wetting foliage during irrigation; deliver water directly to the soil surface.",
+        "Remove and destroy leaves exhibiting fuzzy olive-brown mold patches underneath."
+      ]
+    },
+    "Tomato_Septoria_leaf_spot": {
+      "plant": "Tomato",
+      "disease": "Septoria Leaf Spot",
+      "pathogen": "Fungal (Septoria lycopersici)",
+      "description": "Common fungal disease causing numerous tiny circular spots with dark brown margins and sunken grey-tan centers with black specks.",
+      "symptoms": [
+        "Multiple small (1.5-3mm) circular spots with dark borders and pale centers",
+        "Tiny black pycnidia visible inside spots under hand lens",
+        "Rapid lower foliage yellowing and drop"
+      ],
+      "causes": "Wet foliage from rainfall or overhead watering in warm weather (20-25\u00b0C).",
+      "treatment": "Fungicides containing chlorothalonil, mancozeb, or copper.",
+      "organic_treatment": "Liquid copper sprays and biological fungicides containing Bacillus subtilis.",
+      "prevention": "Stake and cage plants, apply 3 inches of mulch under canopy, avoid working with wet plants.",
+      "severity": "moderate",
+      "precaution_level": "MODERATE CAUTION",
+      "precautions": [
+        "Remove diseased lower leaves showing dark-bordered speckled circular spots as soon as identified.",
+        "Apply thick mulch beneath plants to prevent rain from bouncing soil-borne Septoria spores onto leaves.",
+        "Avoid handling wet tomato foliage; spores are readily spread by hands, clothing, and tools.",
+        "Thoroughly clean up and discard all tomato plant residue at the end of the growing season.",
+        "Practice at least a 2-year crop rotation away from solanaceous plants in that soil bed."
+      ]
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+      "plant": "Tomato",
+      "disease": "Spider Mites (Two-Spotted)",
+      "pathogen": "Arachnid Pest (Tetranychus urticae)",
+      "description": "Microscopic sap-sucking mites that produce stippled yellow foliage and fine silken webbing.",
+      "symptoms": [
+        "Fine pale yellow speckled stippling on leaf surface",
+        "Silken webs stretching between leaf stems and tips",
+        "Leaves turn bronze, dry out, and drop"
+      ],
+      "causes": "Hot, dry, dusty weather; excessive synthetic pesticide use eliminating natural predators.",
+      "treatment": "Apply selective miticides (abamectin, bifenazate) covering leaf undersides thoroughly.",
+      "organic_treatment": "Spray insecticidal soap, horticultural mineral oil, or release predatory mites (Phytoseiulus persimilis).",
+      "prevention": "Maintain overhead humidity in dry spells, wash dusty roadways, monitor leaf undersides weekly.",
+      "severity": "moderate",
+      "precaution_level": "MODERATE CAUTION",
+      "precautions": [
+        "Isolate infested plants; spider mites easily crawl or blow onto adjacent host plants on gentle breezes.",
+        "Wash dusty pathways and surrounding soil; dry, dusty conditions drastically accelerate mite reproduction.",
+        "Avoid broad-spectrum synthetic insecticides which kill natural beneficial predators like ladybugs and lacewings.",
+        "Spray leaf undersides thoroughly with a strong blast of water or insecticidal soap during cooler morning hours.",
+        "Introduce or protect predatory mites (Phytoseiulus persimilis) in enclosed or greenhouse settings."
+      ]
+    },
+    "Tomato__Target_Spot": {
+      "plant": "Tomato",
+      "disease": "Target Spot",
+      "pathogen": "Fungal (Corynespora cassiicola)",
+      "description": "Causes circular brown lesions with concentric rings and yellow halos that resemble early blight but affect fruit and upper canopy heavily.",
+      "symptoms": [
+        "Zonate brown lesions with pale centers and subtle concentric rings",
+        "Sunken target lesions on both foliage and green fruit",
+        "Severe blighting in warm conditions"
+      ],
+      "causes": "High humidity, warm temperatures (20-28\u00b0C), and extended free leaf moisture.",
+      "treatment": "Apply strobilurin fungicides or azoxystrobin + difenoconazole.",
+      "organic_treatment": "Copper hydroxide sprays combined with removal of infected lower foliage.",
+      "prevention": "Avoid planting near older infected solanaceous fields, maintain good field drainage.",
+      "severity": "moderate",
+      "precaution_level": "MODERATE CAUTION",
+      "precautions": [
+        "Prune lower infected foliage and improve row spacing to reduce humidity pockets within the plant canopy.",
+        "Avoid overhead irrigation; keep foliage completely dry, particularly going into evening hours.",
+        "Remove and dispose of all fruit displaying sunken brown target rings to prevent fungal spore buildup.",
+        "Disinfect tomato trellis twine, stakes, and pruning tools with 70% alcohol or quaternary ammonium.",
+        "Rotate fields with non-host crops like corn or beans to break the soil inoculum cycle."
+      ]
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+      "plant": "Tomato",
+      "disease": "Yellow Leaf Curl Virus (TYLCV)",
+      "pathogen": "Viral (Begomovirus transmitted by Whiteflies)",
+      "description": "Devastating viral disease causing upward leaf curling, severe chlorosis, bushiness, and complete flower abortion.",
+      "symptoms": [
+        "Cupped or rolled leaves with bright yellow margins",
+        "Interveinal chlorosis and reduced leaf blade size",
+        "Stunted bushy plant structure, flowers drop before fruit set"
+      ],
+      "causes": "Vector transmission by the silverleaf whitefly (Bemisia tabaci).",
+      "treatment": "No viral cure exists. Systemic insecticides (imidacloprid, thiamethoxam) to suppress vector whiteflies.",
+      "organic_treatment": "Deploy yellow sticky traps, spray neem oil, rogue and bag infected plants immediately.",
+      "prevention": "Install 50-mesh insect netting in greenhouses, plant TYLCV-resistant hybrids, use reflective silver mulches.",
+      "severity": "high",
+      "precaution_level": "CRITICAL URGENCY",
+      "precautions": [
+        "CRITICAL VIRAL THREAT: TYLCV has no cure and is vectored rapidly by whiteflies to other crops.",
+        "Immediately rogue (uproot) and destroy infected plants showing stunted growth and upward leaf curl.",
+        "Place diseased plants directly into sealed plastic bags before transporting to avoid shaking whiteflies loose.",
+        "Deploy yellow sticky traps every 10-15 feet to monitor and capture adult whitefly populations.",
+        "Install 50-mesh anti-insect screens on greenhouse openings and apply reflective silver mulch in field beds.",
+        "Eliminate nearby weeds (like nightshade and mallow) which serve as wild virus and whitefly reservoirs."
+      ]
+    },
+    "Tomato__Tomato_mosaic_virus": {
+      "plant": "Tomato",
+      "disease": "Mosaic Virus (ToMV)",
+      "pathogen": "Viral (Tobamovirus)",
+      "description": "Extremely stable and infectious virus causing mottled dark and light green mosaic patterns, distorted shoestring leaves, and internal fruit browning.",
+      "symptoms": [
+        "Mottled light and dark green mosaic patterns on leaves",
+        "Distorted, narrow, blistered or fern-like leaves",
+        "Stunted plants and mottled fruit with brown internal necrosis"
+      ],
+      "causes": "Mechanical transmission (pruning shears, worker hands, clothing, tobacco smoke residue).",
+      "treatment": "No chemical cure. Remove and destroy infected plants immediately.",
+      "organic_treatment": "Soak tools in 20% non-fat dry milk solution or 10% trisodium phosphate (TSP) to deactivate viral particles.",
+      "prevention": "Wash hands with soap before touching plants, forbid smoking near tomato crops, choose ToMV-resistant cultivars.",
+      "severity": "high",
+      "precaution_level": "CRITICAL URGENCY",
+      "precautions": [
+        "CRITICAL CONTAGION: Extremely stable virus transmitted by touch; survives for years on tools, seeds, and clothing.",
+        "Wash hands thoroughly with soap and warm water or soak in 20% nonfat dry milk solution before and after touching plants.",
+        "STRICT NO SMOKING: Tobacco products carry related viruses and tobacco smoke residue can infect plants through touch.",
+        "Immediately discard infected mottled plants in household trash; NEVER compost or burn (smoke can carry particles).",
+        "Disinfect all pruning shears, trellises, and plant clips in a 10% trisodium phosphate (TSP) or bleach bath for 15 minutes."
+      ]
+    },
+    "Tomato_healthy": {
+      "plant": "Tomato",
+      "disease": "Healthy",
+      "pathogen": "None (Healthy Plant)",
+      "description": "Vibrant tomato leaf with crisp dark green color, healthy trichomes (leaf hairs), and zero disease lesions.",
+      "symptoms": [
+        "Deep green uniform color",
+        "Healthy serrated leaf margins and sturdy petiole",
+        "Active photosynthesis and vigorous shoot growth"
+      ],
+      "causes": "Proper balance of nitrogen, phosphorus, potassium, consistent watering, and adequate sunlight.",
+      "treatment": "Continue standard cultural practices, trellis staking, and soil testing.",
+      "organic_treatment": "Apply compost mulch and beneficial mycorrhizal root inoculants.",
+      "prevention": "Prune lower leaves that touch soil to prevent splash inoculation.",
+      "severity": "none",
+      "precaution_level": "ROUTINE CARE",
+      "precautions": [
+        "Prune lower leaves touching the ground to eliminate splash corridors from soil microbes.",
+        "Maintain consistent, deep watering to prevent blossom end rot and stress-induced susceptibility.",
+        "Inspect leaf undersides and terminal growth twice weekly for early signs of hornworms, mites, or whiteflies.",
+        "Apply organic mulch around the stem base leaving 2 inches of breathing room around the main stem."
+      ]
+    }
+  }
+}
